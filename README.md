@@ -3,7 +3,7 @@
 
 I am Shivam Potdar
 
-<embed type="text/html" src="https://shivampotdar.me/">
+<iframe name="website" src="https://shivampotdar.me/"></iframe>
 <!--
 **shivampotdar/shivampotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
