@@ -3,9 +3,8 @@
 
 I am Shivam Potdar!
 
-and I have a website 😄 - [https://shivampotdar.me](HERE)
+and I have a website 😄 - [HERE](https://shivampotdar.me)
 
-<iframe name="website" src="https://shivampotdar.me/index.html" > </iframe>
 <!--
 **shivampotdar/shivampotdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
